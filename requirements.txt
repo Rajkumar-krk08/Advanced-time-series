@@ -1,0 +1,41 @@
+# Advanced Time Series Forecasting with Attention Mechanisms
+# Python Dependencies
+
+# Core Deep Learning Framework
+tensorflow>=2.10.0
+keras>=2.10.0
+
+# Numerical Computing
+numpy>=1.23.0
+scipy>=1.9.0
+
+# Data Manipulation & Analysis
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Financial Data
+yfinance>=0.2.0
+
+# Type Checking (Optional)
+mypy>=1.0.0
+
+# Development Tools (Optional)
+jupyter>=1.0.0
+ipython>=8.0.0
+notebook>=6.5.0
+
+# Documentation (Optional)
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.1.0
+
+# Testing (Optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Deployment (Optional)
+flask>=2.2.0
+gunicorn>=20.1.0
